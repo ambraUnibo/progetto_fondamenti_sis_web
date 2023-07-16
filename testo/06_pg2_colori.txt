@@ -1,0 +1,8 @@
+Colori
+
+- Evitare l'uso esclusivo del colore per trasmettere informazioni: Non basarsi solo sul colore per fornire indicazioni o messaggi importanti. Ad esempio, se si utilizza un'icona rossa per indicare un errore, fornire anche un testo o un'etichetta che spieghi l'errore in modo che le persone che non riescono a distinguere i colori possano comprendere l'indicazione.
+
+- Considerare la percezione dei colori: Tenere presente che alcune persone possono avere difficoltà nella percezione dei colori, ad esempio, le persone con daltonismo. Evitare di utilizzare combinazioni di colori che possano creare confusione o ostacolare la comprensione delle informazioni.
+
+- Contrasto: Assicurarsi che il testo e gli elementi siano ben leggibili rispetto allo sfondo. Utilizzare colori con un contrasto sufficiente per rendere il testo distinguibile, ad esempio, testo scuro su sfondo chiaro o viceversa. Esistono strumenti online disponibili per verificare il contrasto tra due colori.
+

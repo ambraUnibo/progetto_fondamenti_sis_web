@@ -1,0 +1,18 @@
+ 
+ACCESSIBILITA' - intro
+
+L'accessibilità si riferisce alla progettazione e alla creazione di ambienti, prodotti, servizi e tecnologie che siano facilmente utilizzabili da tutte le persone, comprese quelle con disabilità. L'obiettivo dell'accessibilità è rimuovere le barriere che possono impedire alle persone di partecipare pienamente alla società.
+
+In ambito informatico, e in particolare del web, riguarda la progettazione e la creazione di siti web, applicazioni e contenuti digitali che possano essere utilizzati da tutte le persone, indipendentemente dalle loro abilità o dalle tecnologie di supporto che utilizzano.
+
+Ciò significa che i siti web accessibili sono progettati in modo da consentire a persone con diverse capacità di percepire, comprendere e interagire con il contenuto. Ad esempio, un sito web accessibile fornirà testo alternativo per le immagini in modo che le persone non vedenti possano utilizzare lettori di schermo per accedere alle informazioni visive. Inoltre, un sito web accessibile avrà una struttura e un'organizzazione chiara che facilita la navigazione e la comprensione del contenuto, anche per persone con disturbi cognitivi o di apprendimento.
+
+Altre pratiche comuni per l'accessibilità del web includono l'utilizzo di colori contrastanti per rendere il testo leggibile, l'utilizzo di etichette descrittive per i moduli interattivi, l'implementazione di controlli di navigazione accessibili tramite tastiera e la progettazione di layout flessibili che si adattano a diverse dimensioni di schermo.
+
+L'accessibilità del web è importante perché consente a persone con disabilità di accedere ad Internet in modo autonomo e senza ostacoli. Inoltre, una buona accessibilità del web può migliorare l'esperienza per tutti gli utenti, dagli anziani, a chi preferisce utilizzare dispositivi mobili, oppure chi si trova in una connessione lenta.
+
+In conclusione, accessibilità in ambito informatico e del web significa garantire che i siti web e le applicazioni siano progettati e sviluppati in modo tale da essere utilizzabili da tutte le persone, inclusi coloro che hanno disabilità o bisogni specifici. L'obiettivo è rimuovere le barriere digitali e fornire un accesso equo e inclusivo a Internet per tutti.
+
+
+
+

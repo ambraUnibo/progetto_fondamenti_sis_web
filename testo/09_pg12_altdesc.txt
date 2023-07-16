@@ -1,0 +1,24 @@
+
+Pagina 1
+
+
+
+
+
+
+
+
+Pagina 2
+
+- colori 
+    alt -> Esempio di due grafici, uno accessibile e l'altro no
+    desc -> Nel grafico a sinistra non è stata usata alcuna etichetta e la legenda è composta solo da colori, il che la rende potenzialmente illegibile per molte persone. Il grafico a destra invece fornisce una legenda più accessibile attraverso l'uso di un pattern specifico assegnato ad ogni colore. La lettura viene resa ulteriormente semplice dalla presenza di etichette sul grafico stesso. 
+- contrasto 
+    alt -> Esempio di frasi scritte in vari colori su sfondi diversi, per mostrare l'importanza del contrasto tra il testo e lo sfondo.
+    desc -> In questa immagine si vuole sottolineare la differenza di leggibilità tra un testo in sufficiente contrasto con lo sfondo e un testo scritto in un colore molto simile a quello su cui poggia. E' evidente come la prima e la terza colonna, denominate "high contrast", siano immediatamente più leggibili della seconda e quarta colonne ("low contrast"). 
+- font leggibili
+    alt -> Sei font messi a confronto: tre facilmente leggibili e tre molto decorativi e difficili da leggere. 
+    desc -> In questa immagine i font non accessibili sono font altamente decorativi, difficili da leggere per chiunque. I font decorativi sono un'altra categoria di font sempre poco accessibile.  
+- spaziatura e interlinea
+    alt -> Esempio di due paragrafi con interlinee diverse: uno corretta e l'altro troppo stretta.
+    desc -> La differenza di leggibilità tra questi due paragrafi è evidente e rende bene l'idea di quanto sia importante rispettare e progettare anche gli spazi bianchi. 

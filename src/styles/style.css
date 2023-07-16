@@ -1,0 +1,278 @@
+#app {
+  margin: 0%;
+  padding: 0%;
+  background-color: #fefefe;
+}
+
+html, body {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+div, section {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #1b1c1e;
+  text-align: justify;
+}
+
+header {
+  background-color: #f1eff1;
+  margin: 0%;
+  padding: 0;
+  border-bottom: solid #f1eff1;
+}
+
+#menu nav {
+  margin: 0;
+  padding: 0;
+}
+#menu ul {
+  margin: 0;
+  padding: 1% 0 2%;
+}
+#menu ul li {
+  padding: 0.5%;
+  text-align: center;
+  display: inline-block;
+  box-sizing: border-box;
+}
+#menu ul li a {
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  padding: 1%;
+  border-style: solid;
+  border-color: #0d47a1;
+  background-color: #f1eff1;
+  color: #0d47a1;
+  text-decoration: none;
+}
+#menu ul li a :hover {
+  background-color: #c0b3c2;
+  border-color: #c0b3c2;
+  color: #002171;
+  font-weight: bold;
+}
+#menu ul li a :active {
+  background-color: #0d47a1;
+  border-color: #c0b3c2;
+  color: #c0b3c2;
+}
+
+footer {
+  margin: 0%;
+  padding: 1%;
+  text-align: center;
+  background-color: #002171;
+  color: #f1eff1;
+}
+
+#staticPage1 {
+  padding: 0 5%;
+}
+#staticPage1 h1 {
+  text-align: center;
+  padding: 2%;
+  color: #002171;
+}
+#staticPage1 h2 {
+  text-align: left;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #002171;
+}
+#staticPage1 .art-sp {
+  padding-bottom: 5%;
+  margin-bottom: 5%;
+}
+#staticPage1 img {
+  max-width: 75%;
+  max-height: 250px;
+  border-color: #c0b3c2;
+  border-style: solid;
+  border-radius: 15px;
+  border-width: 0.15%;
+}
+
+#staticPage2 {
+  padding: 0 5%;
+}
+#staticPage2 h1 {
+  text-align: center;
+  padding: 2%;
+  color: #002171;
+}
+#staticPage2 h2 {
+  text-align: left;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #002171;
+}
+#staticPage2 .art-sp {
+  padding-bottom: 3%;
+}
+#staticPage2 .art-sp h2 {
+  padding: 2% 0;
+}
+#staticPage2 article {
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+#staticPage2 figure {
+  border-color: #c0b3c2;
+  border-style: solid;
+  border-radius: 15px;
+  border-width: 0.15%;
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+#staticPage2 figure img {
+  width: 94%;
+  padding: 3%;
+}
+#staticPage2 figure figcaption {
+  box-sizing: border-box;
+  width: 100%;
+  padding: 3%;
+  font-size: small;
+  color: #303030;
+}
+
+#dynamicPage1 table {
+  margin: 5% auto 10%;
+  border-style: solid;
+  border-width: 0.15%;
+}
+#dynamicPage1 table caption {
+  font-size: xx-large;
+  font-weight: bolder;
+  text-align: center;
+  padding: 2%;
+  color: #002171;
+  margin-top: 3%;
+  margin-bottom: 5%;
+  border-collapse: collapse;
+}
+#dynamicPage1 table #first-row {
+  text-align: left;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #002171;
+  text-align: center;
+  background-color: #f1eff1;
+}
+#dynamicPage1 table .row {
+  text-align: center;
+}
+
+#dynamicPage2 {
+  padding: 0 5%;
+}
+#dynamicPage2 h1 {
+  text-align: center;
+  padding: 2%;
+  color: #002171;
+}
+#dynamicPage2 h2 {
+  text-align: left;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #002171;
+}
+#dynamicPage2 h2 {
+  font-size: large;
+  padding-top: 5%;
+}
+#dynamicPage2 #ul-list {
+  list-style-type: " - ";
+  list-style-position: inside;
+  padding: 0;
+}
+#dynamicPage2 #ul-modify {
+  list-style-type: none;
+  padding: 0 0 5%;
+}
+#dynamicPage2 #ul-modify li {
+  padding: 1%;
+}
+#dynamicPage2 #ul-modify #selected_person, #dynamicPage2 #ul-modify #name, #dynamicPage2 #ul-modify #surname {
+  margin: 0 1%;
+}
+
+@media screen and (max-width: 768px) {
+  header {
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+  }
+  #menu ul {
+    padding: 1% 0 2%;
+  }
+  #menu ul li {
+    margin: 0 2%;
+    display: inline-block;
+    width: 45%;
+  }
+  #staticPage1 img {
+    max-width: 75%;
+    max-height: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  #staticPage2 figure {
+    max-width: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+@media screen and (min-width: 769px) {
+  header {
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+  }
+  #menu ul {
+    padding: 1% 0;
+  }
+  #menu ul li {
+    margin: 0 2%;
+    display: inline-block;
+    width: 20%;
+  }
+  #staticPage1 img {
+    float: right;
+    margin: 1% 0 1% 3%;
+  }
+  #staticPage2 figure {
+    max-width: 70%;
+  }
+  #staticPage2 figure img {
+    max-width: 50%;
+    padding: 3% 25% 1%;
+  }
+  #staticPage2 figure figcaption {
+    padding: 1% 3%;
+  }
+  #dynamicPage2 #div-list {
+    display: inline-block;
+    width: 30%;
+    margin: 5% 5% 0;
+    padding: 3%;
+    border: solid #5472d3;
+  }
+  #dynamicPage2 #div-list h1 {
+    text-align: left;
+    margin-top: 0;
+  }
+  #dynamicPage2 form {
+    display: inline-block;
+    width: 30%;
+    margin-top: 0%;
+    margin-bottom: 5%;
+    margin-left: 5%;
+    padding: 3%;
+  }
+  #dynamicPage2 form h2 {
+    font-size: x-large;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */

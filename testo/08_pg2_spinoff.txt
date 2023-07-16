@@ -1,0 +1,15 @@
+Contrasto
+
+    Il rapporto di contrasto tra due colori per essere considerato accessibile è specificato nelle linee guida delle WCAG (Web Content Accessibility Guidelines). Esistono due criteri di contrasto comunemente utilizzati: il rapporto di contrasto minimo 4,5:1 e il rapporto di contrasto aumentato 7:1 per testo più grande o per testo importante.
+    
+    Il rapporto di contrasto 4,5:1 indica che il testo e gli elementi interattivi devono avere un contrasto di almeno 4,5 rispetto allo sfondo su cui si trovano. Questo rapporto assicura una buona leggibilità per la maggior parte delle persone.
+    
+    Tuttavia, per il testo più grande o per il testo importante, come i titoli principali, si richiede un rapporto di contrasto aumentato di 7:1. Ciò significa che il testo più grande deve avere un contrasto più elevato rispetto allo sfondo, per garantire una leggibilità migliore.
+    
+    È possibile utilizzare strumenti online, come calcolatori di contrasto, per verificare il rapporto di contrasto tra due colori specifici e determinare se soddisfano i criteri di accessibilità.
+    
+    È importante notare che questi criteri di contrasto si applicano principalmente al testo e agli elementi interattivi. Per altre combinazioni di colori all'interno del design, è consigliabile scegliere colori che siano facilmente distinguibili e che non creino confusione o difficoltà nella percezione delle informazioni.
+
+
+COLORI 
+    color wheel - luce vs paint

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Progetto Fondamenti</title>    
+    <link rel="stylesheet" href="./styles/style.css">
+</head>
+
+<body>
+    <div id="app">   
+        <header>
+            <nav id="menu">
+                <ul>
+                    <li><router-link to="/">Accessibilità</router-link></li>
+                    <li><router-link to="/elementi-di-design">Elementi di Design</router-link></li>
+                    <li><router-link to="/lista-contatti">Lista Contatti</router-link></li>
+                    <li><router-link to="/modifica-persona">Modifica Persona</router-link></li>
+                </ul>
+            </nav>
+        </header> 
+       
+        <main>
+            <router-view></router-view>
+        </main>   
+    
+        <footer>
+            <p>Progetto Fondamenti dei Sistemi Web di Ambra Benvenuti</p>
+        </footer>
+
+    </div>
+
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    <script src="https://unpkg.com/vue@3"></script>
+    <script src="https://unpkg.com/vue-router@4.0.15/dist/vue-router.global.js"></script>
+    <script src="app.js"></script>    
+
+</body>
+</html> 

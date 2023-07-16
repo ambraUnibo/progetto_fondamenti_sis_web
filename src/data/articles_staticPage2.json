@@ -1,0 +1,76 @@
+[
+    {
+        "id": "page2-layout",
+        "title": "Layout",
+        "content": [
+            {
+                "subtitle": "- Struttura chiara",
+                "paragraph": "Un layout ben strutturato e organizzato facilita la comprensione e la navigazione del contenuto. Utilizzare elementi come intestazioni (heading) per indicare la gerarchia delle informazioni, utilizzare liste ordinate e non ordinate per presentare elenchi e assicurarsi che gli elementi correlati siano raggruppati in modo logico."
+            },
+            {
+                "subtitle": "- Ordine di lettura",
+                "paragraph": "È importante assicurarsi che il contenuto della pagina sia presentato in un ordine di lettura coerente e logico. Ciò è particolarmente importante per gli utenti che utilizzano lettori di schermo o dispositivi di assistenza alla lettura. Verificare che il contenuto venga letto nell'ordine desiderato, anche se il layout visuale può essere diverso."
+            },
+            {
+                "subtitle": "- Responsività",
+                "paragraph": "Assicurarsi che il layout sia responsive e si adatti a diverse dimensioni di schermo e dispositivi. Un layout responsivo garantisce che il contenuto rimanga accessibile e leggibile anche su dispositivi mobili, contribuendo a un'esperienza utente positiva per tutti."
+            }, 
+            {
+                "subtitle": "- Testo alternativo per le immagini",
+                "paragraph": "Non utilizzare il testo contenuto esclusivamente in un'immagine per presentare informazioni o per trasmettere un significato, a meno che non siano presenti eccezioni, come loghi o marchi registrati. Quando si utilizzano immagini con testo incorporato, fornire un testo alternativo descrittivo per consentire alle persone non vedenti o con problemi di visualizzazione di comprendere il contenuto dell'immagine."
+            }
+        ]
+    },
+    {
+        "id": "page2-colour",
+        "title": "Colori",
+        "content": [
+            {
+                "subtitle": "- Evitare l'uso esclusivo del colore per trasmettere informazioni",
+                "img": "./img/graph.png",
+                "alt": "Esempio di due grafici, uno accessibile e l'altro no",
+                "desc": "Nel grafico a sinistra non è stata usata alcuna etichetta e la legenda è composta solo da colori, il che la rende potenzialmente illegibile per molte persone. Il grafico a destra invece fornisce una legenda più accessibile attraverso l'uso di un pattern specifico assegnato ad ogni colore. La lettura viene resa ulteriormente semplice dalla presenza di etichette sul grafico stesso.",
+                "paragraph": "Non basarsi solo sul colore per fornire indicazioni o messaggi importanti. Ad esempio, se si utilizza un'icona rossa per indicare un errore, fornire anche un testo o un'etichetta che spieghi l'errore in modo che le persone che non riescono a distinguere i colori possano comprendere l'indicazione."
+            },
+            {
+                "subtitle": "- Considerare la percezione dei colori",
+                "paragraph": "Tenere presente che alcune persone possono avere difficoltà nella percezione dei colori, ad esempio, le persone con daltonismo. Evitare di utilizzare combinazioni di colori che possano creare confusione o ostacolare la comprensione delle informazioni."
+            },
+            {
+                "subtitle": "- Contrasto",
+                "img": "./img/contrast-examples.jpg",
+                "alt": "Esempio di frasi scritte in vari colori su sfondi di colori diversi, per mostrare l'importanza del contrasto",
+                "desc": "In questa immagine si vuole sottolineare la differenza di leggibilità tra un testo in sufficiente contrasto con lo sfondo e un testo scritto in un colore molto simile a quello su cui poggia. E' evidente come la prima e la terza colonna, denominate \"high contrast\", siano immediatamente più leggibili della seconda e quarta colonne (\"low contrast\").",
+                "paragraph": "Assicurarsi che il testo e gli elementi siano ben leggibili rispetto allo sfondo. Utilizzare colori con un contrasto sufficiente per rendere il testo distinguibile, ad esempio, testo scuro su sfondo chiaro o viceversa. Esistono strumenti online disponibili per verificare il contrasto tra due colori."
+            }
+        ]
+    },
+    {
+        "id": "page2-typography",
+        "title": "Tipografia",
+        "content": [
+            {
+                "subtitle": "- Dimensione del testo",
+                "paragraph": "Assicurarsi che il testo sia sufficientemente grande da essere facilmente leggibile per tutti gli utenti, inclusi quelli con disabilità visive o con difficoltà di lettura. Evitare di utilizzare dimensioni di testo troppo piccole che possano richiedere uno sforzo eccessivo per la lettura."
+            },
+            {
+                "subtitle": "- Font leggibili",
+                "img": "./img/font.png",
+                "alt": "Sei font messi a confronto: tre facilmente leggibili e tre molto decorativi e difficili da leggere.",
+                "desc": "In questa immagine i font non accessibili sono font altamente decorativi, difficili da leggere per chiunque. I font decorativi sono un'altra categoria di font sempre poco accessibile.",
+                "paragraph": "Optare per font leggibili e facilmente riconoscibili. Evitare caratteri particolarmente stilizzati o fantasiosi che possono compromettere la chiarezza del testo. I caratteri sans-serif (senza grazie) come Arial, Helvetica o Verdana sono spesso considerati più facili da leggere su schermi digitali."
+            },
+            {
+                "subtitle": "- Spaziatura e interlinea",
+                "img": "./img/interline.png",
+                "alt": "Esempio di due paragrafi con interlinee diverse: uno corretta e l'altro troppo stretta.",
+                "desc": "La differenza di leggibilità tra questi due paragrafi è evidente e rende bene l'idea di quanto sia importante rispettare e progettare anche gli spazi bianchi.",
+                "paragraph": "Assicurarsi che ci sia una spaziatura adeguata tra le righe di testo e tra le parole. Una spaziatura appropriata migliora la leggibilità del testo e facilita la lettura, in particolare per coloro che possono avere difficoltà nella focalizzazione visiva."
+            },
+            {
+                "subtitle": "- Stili di evidenziazione",
+                "paragraph": "Utilizzare stili di evidenziazione, come grassetto, corsivo o sottolineatura, in modo coerente e significativo per aiutare a distinguere parti importanti del testo. Tuttavia, evitare di utilizzare solo il colore per evidenziare il testo, poiché ciò può creare problemi per le persone con disabilità visive."
+            }
+        ]
+    }
+]

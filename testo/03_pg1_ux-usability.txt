@@ -1,0 +1,19 @@
+
+User eXperience & Usability
+
+Usabilità e User Experience (anche chiamata UX o esperienza d'uso) sono due concetti diversi ma strettamente collegati fra loro e soprattutto molto importanti nell'ambito dell'accessibilità.
+
+Usabilità e UX nascono in momenti diversi: l'usabilità fa la sua comparsa con l'avvento dei computer, anche se viene riconosciuta come importante solo a partire dagli anni '80, mentre si comincia a parlare di esperienza d'uso solo verso il 2000. 
+
+Con usabilità si intende l'efficienza e l'efficacia di un sistema, in altre parole, la sua dimensione pragmatica e oggettiva.
+L'esperienza d'uso invece, è un concetto soggettivo, in quanto si riferisce alla reazione dell'utente all'uso del sistema.
+
+In particolare, l'usabilità cerca di assottigliare il più possibile il divario tra il modello mentale di chi progetta il sistema (design model) e il modello mentale di chi andrà ad usarlo (user model), al fine di rendere quel sistema il più semplice ed efficace possibile. 
+Oltre ad efficace ed efficiente, un sistema con una buona usabilità deve essere soddisfacente nell'utilizzo, avere una curva di apprendimento e di memorizzazione (interazione con il sistema a distanza di tempo) dolce e infine possedere una buona resistenza agli errori. 
+
+Lo scopo dell'esperienza d'uso invece è rendere il più possibile piacevole ed emozionante l'utilizzo del sistema. Riuscirci richiede di prendere in considerazione aspetti all'apparenza completamente scollegati dall'ambito informatico: lo stato mentale dell'utente al momento dell'utilizzo del servizio, il servizio a cui l'utente accede utilizzando il sistema e la situazione intorno all'utente al momento dell'utilizzo. Tutti questi aspetti sono altamente soggettivi e perciò difficilmente predicibili, motivo per cui si ricerca il feedback dell'utente finale già dalla fase di sviluppo. 
+
+E' interessante notare come l'usabilità sia essa stessa una parte dell'esperienza d'uso. Infatti, quest'ultima si compone di tre dimensioni principali: quella pragmatica (l'usabilità), quella estetica/edonistica e quella simbolica. Della prima si è già parlato, la seconda fa riferimento alla bellezza del servizio e al piacere che ne consegue, mentre la terza è carica di significati sociali (riconoscimento di brand, identificazione). 
+
+Quando si parla di accessibilità, sia UX che Usability diventano fattori critici, in quanto possono influenzare il raggiungimento dei criteri delle WCAG. Progettare tenendo a mente UX e Usability, oltre ai principi delle WCAG, favorisce notevolmente l'accessibilità, garantendo che il prodotto o l'interfaccia siano comprensibili e facili da usare a una vasta gamma di utenti. 
+

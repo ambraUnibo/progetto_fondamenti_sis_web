@@ -1,0 +1,9 @@
+Tipografia
+
+- Dimensione del testo: Assicurarsi che il testo sia sufficientemente grande da essere facilmente leggibile per tutti gli utenti, inclusi quelli con disabilità visive o con difficoltà di lettura. Evitare di utilizzare dimensioni di testo troppo piccole che possano richiedere uno sforzo eccessivo per la lettura.
+
+- Font leggibili: Optare per font leggibili e facilmente riconoscibili. Evitare caratteri particolarmente stilizzati o fantasiosi che possono compromettere la chiarezza del testo. I caratteri sans-serif (senza grazie) come Arial, Helvetica o Verdana sono spesso considerati più facili da leggere su schermi digitali.
+
+- Spaziatura e interlinea: Assicurarsi che ci sia una spaziatura adeguata tra le righe di testo e tra le parole. Una spaziatura appropriata migliora la leggibilità del testo e facilita la lettura, in particolare per coloro che possono avere difficoltà nella focalizzazione visiva.
+
+- Stili di evidenziazione: Utilizzare stili di evidenziazione, come grassetto, corsivo o sottolineatura, in modo coerente e significativo per aiutare a distinguere parti importanti del testo. Tuttavia, evitare di utilizzare solo il colore per evidenziare il testo, poiché ciò può creare problemi per le persone con disabilità visive.

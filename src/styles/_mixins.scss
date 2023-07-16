@@ -1,0 +1,52 @@
+
+@mixin body-begin {
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
+@mixin text-begin {
+    font-family: $font-text;
+    color: $black;
+    text-align: justify;
+}
+
+@mixin static-begin {
+    padding: 0 $padding-start;
+    h1{
+        @include title;
+    }
+    h2 {
+        @include subtitle-blue;
+    }
+}
+
+@mixin title {
+    text-align: center;
+    padding: $padding-h1;
+    color: $primary-dark;
+}
+@mixin subtitle-blue {
+    text-align: left;
+    font-family: $font-text;
+    color: $primary-dark;
+}
+
+@mixin center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+@mixin round-border {
+    border-color: $secondary-dark;
+    border-style: solid;
+    border-radius: 15px;
+    border-width: 0.15%;
+}
+
+@mixin mobile {
+    @media screen and (max-width: 768px) {
+
+    }
+}

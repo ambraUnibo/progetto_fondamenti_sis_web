@@ -1,0 +1,261 @@
+@import "./variables";
+@import "./mixins";
+
+
+#app {
+    margin: 0%;
+    padding: 0%;
+    background-color: $white;
+}
+html, body {
+    @include body-begin;
+}
+
+div, section {
+    @include text-begin;
+}
+
+header {
+    background-color: $secondary;
+    margin: 0%;
+    padding: 0;        
+    border-bottom: solid $secondary;
+}
+
+#menu {
+    nav {
+        margin: 0;
+        padding: 0;
+    }
+    ul {
+        margin: 0;
+        padding: $padding-button 0 $padding-button*2;
+        li {
+            padding: 0.5%;
+            text-align: center;
+            display: inline-block;
+            box-sizing: border-box;
+            a {
+                display: inline-block;
+                width: 100%;
+                height: 100%;
+                padding: $padding-button;
+                border-style: solid;
+                border-color: $primary;
+                background-color: $secondary;
+                color: $primary;
+                text-decoration: none;
+                :hover {
+                    background-color: $secondary-dark;
+                    border-color: $secondary-dark;
+                    color: $primary-dark;
+                    font-weight: bold;
+                }
+                :active {
+                    background-color: $primary;
+                    border-color: $secondary-dark;
+                    color: $secondary-dark;
+                }
+            }
+        }
+    }
+}
+
+
+footer {
+    margin: 0%;
+    padding: $padding-button;
+    text-align: center;
+    background-color: $primary-dark;
+    color: $secondary;
+}
+
+
+#staticPage1 {
+    @include static-begin;
+    .art-sp{
+        padding-bottom: $padding-start;
+        margin-bottom: $padding-start;
+    }
+    img {
+        max-width: 75%;
+        max-height: 250px;
+        @include round-border;
+    }
+}
+
+#staticPage2 {
+    @include static-begin;
+    .art-sp {
+        padding-bottom: $padding-art;
+        h2 {
+            padding: $padding-h1 0;
+        }
+    }
+    article{
+        @include body-begin;
+    }
+    figure {      
+        @include round-border;
+        margin-top: $padding-start;
+        margin-bottom: $padding-start;
+        img {
+            width: 94%;        
+            padding: $padding-art;
+        }
+        figcaption {
+            box-sizing: border-box;
+            width: 100%;        
+            padding: $padding-art;
+            font-size: small;
+            color: $grey;
+        }
+    }
+}
+
+
+#dynamicPage1 {
+    table {
+        caption {
+            font-size: xx-large;
+            font-weight: bolder;
+            @include title;
+            margin-top: $padding-art;
+            margin-bottom: $padding-start;
+            border-collapse: collapse;
+        }
+        #first-row {
+            @include subtitle-blue;
+            text-align: center;
+            background-color: $secondary;
+        }
+        .row{
+            text-align: center;
+        }   
+        margin: $padding-start auto $padding-start*2;
+        border-style: solid;
+        border-width: 0.15%;
+    }
+}
+
+
+#dynamicPage2 {
+    @include static-begin;
+    h2{
+        font-size: large;
+        padding-top: $padding-start;
+    }
+    #ul-list {
+        list-style-type: " - ";
+        list-style-position: inside;
+        padding: 0;
+    }
+    #ul-modify {
+        list-style-type: none;
+        padding: 0 0 $padding-start;
+        li {
+            padding: $padding-button;
+        }
+        #selected_person, #name, #surname {
+            margin: 0 $padding-button;
+        }
+    }
+}
+
+
+@media screen and (max-width: 768px) {
+    header {
+        border-bottom-left-radius: 15px;
+        border-bottom-right-radius: 15px;
+    }
+    #menu {
+        ul {
+            padding: $padding-button 0 $padding-button*2;
+            li{
+                margin: 0 2%;
+                display: inline-block;
+                width: 45%;
+            }
+        }
+    }
+    #staticPage1{
+        img {
+            max-width: 75%;
+            max-height: 250px;
+            @include center-block;
+        }
+    }
+    #staticPage2 {
+        figure{
+            max-width: 75%;             
+            @include center-block;
+        }
+
+    }
+}
+
+
+
+
+@media screen and (min-width: 769px) {
+    header {
+        border-bottom-left-radius: 25px;
+        border-bottom-right-radius: 25px;
+    }
+    #menu {
+        ul {
+            padding: $padding-button 0;
+            li{
+            margin: 0 2%;
+            display: inline-block;
+            width: 20%;
+            }
+        }    
+    }
+    #staticPage1 {
+        img {
+            float: right;
+            margin: $padding-button 0 $padding-button $padding-art;
+        }
+    }
+    #staticPage2 {
+        figure{
+            img{
+                max-width: 50%;
+                padding: $padding-art 25% $padding-button;
+
+            }
+            figcaption{
+                padding: $padding-button $padding-art;
+            }
+            max-width: 70%;
+        }
+    }
+    #dynamicPage2 {
+        #div-list {
+            display: inline-block;
+            width: 30%;
+            margin: $padding-start $padding-start 0;
+            padding: $padding-art;
+            border: solid $primary-light; 
+            h1 {
+                text-align: left;
+                margin-top: 0;
+            }
+        }
+        form {
+            display: inline-block;
+            width: 30%;
+            margin-top: 0%;
+            margin-bottom: $padding-start;
+            margin-left: $padding-start;
+            padding: $padding-art;
+            h2 {
+                font-size: x-large;
+            }
+        }
+    }
+}
+
+
+

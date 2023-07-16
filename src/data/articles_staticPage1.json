@@ -1,0 +1,44 @@
+[
+    {
+        "id": "page1-intro",
+        "title": "Introduzione all'Accessibilità",
+        "img": "./img/accessibility_intro.jpg",
+        "content": [
+            "L'accessibilità si riferisce alla progettazione e alla creazione di ambienti, prodotti, servizi e tecnologie che siano facilmente utilizzabili da tutte le persone, comprese quelle con disabilità. L'obiettivo dell'accessibilità è rimuovere le barriere che possono impedire alle persone di partecipare pienamente alla società.",
+            "In ambito informatico, e in particolare del web, riguarda la progettazione e la creazione di siti web, applicazioni e contenuti digitali che possano essere utilizzati da tutte le persone, indipendentemente dalle loro abilità o dalle tecnologie di supporto che utilizzano.",
+            "Ciò significa che i siti web accessibili sono progettati in modo da consentire a persone con diverse capacità di percepire, comprendere e interagire con il contenuto. Ad esempio, un sito web accessibile fornirà testo alternativo per le immagini in modo che le persone non vedenti possano utilizzare lettori di schermo per accedere alle informazioni visive. Inoltre, un sito web accessibile avrà una struttura e un'organizzazione chiara che facilita la navigazione e la comprensione del contenuto, anche per persone con disturbi cognitivi o di apprendimento.",
+            "Altre pratiche comuni per l'accessibilità del web includono l'utilizzo di colori contrastanti per rendere il testo leggibile, l'utilizzo di etichette descrittive per i moduli interattivi, l'implementazione di controlli di navigazione accessibili tramite tastiera e la progettazione di layout flessibili che si adattano a diverse dimensioni di schermo.",
+            "L'accessibilità del web è importante perché consente a persone con disabilità di accedere ad Internet in modo autonomo e senza ostacoli. Inoltre, una buona accessibilità del web può migliorare l'esperienza per tutti gli utenti, dagli anziani, a chi preferisce utilizzare dispositivi mobili, oppure chi si trova in una connessione lenta.",
+            "In conclusione, accessibilità in ambito informatico e del web significa garantire che i siti web e le applicazioni siano progettati e sviluppati in modo tale da essere utilizzabili da tutte le persone, inclusi coloro che hanno disabilità o bisogni specifici. L'obiettivo è rimuovere le barriere digitali e fornire un accesso equo e inclusivo a Internet per tutti."
+        ]
+    },
+    {
+        "id": "page1-wcag",
+        "title": "WCAG - Web Content Accessibility Guidelines",
+        "img": "./img/wcag3.png",
+        "content": [
+            "Le WCAG (Web Content Accessibility Guidelines) sono linee guida internazionali che stabiliscono gli standard per l'accessibilità del web. Sono sviluppate dal World Wide Web Consortium (W3C) e sono ampiamente riconosciute come il punto di riferimento per creare siti web accessibili.",
+            "Le WCAG sono importanti perché forniscono una serie di principi, linee guida e criteri di conformità che, se rispettati, consentono a un pubblico più ampio di accedere alle informazioni e ai servizi online, garantendo l'inclusione digitale per tutti.",
+            "I concetti principali delle WCAG si basano su quattro principi fondamentali, noti come P.O.U.R.:",
+            "- Percezione: le informazioni e gli elementi dell'interfaccia utente devono essere presentati in modo che possano essere percepiti da tutti, indipendentemente dalle loro capacità sensoriali. Ciò include fornire testo alternativo per le immagini, utilizzare colori contrastanti per rendere il testo leggibile e fornire sottotitoli per i video.",
+            "- Operabilità: i componenti interattivi del sito web devono essere facili da usare e navigare, consentendo agli utenti di interagire con il contenuto senza difficoltà. Ad esempio, i link devono essere chiaramente identificati e i tempi di interazione essere sufficientemente lunghi da consentire anche alle persone con disabilità di completare le azioni.",
+            "- Comprensibilità: il contenuto e la struttura del sito web devono essere facilmente comprensibili per tutti gli utenti. Ciò implica l'uso di testo chiaro e semplice, un'organizzazione logica del contenuto e la presenza di istruzioni chiare per l'interazione.",
+            "- Robustezza: il sito web deve essere realizzato in modo da poter essere interpretato correttamente da una vasta gamma di tecnologie assistive, come screen reader o dispositivi di input alternativi. Ciò richiede l'adozione di standard tecnici e la compatibilità con diversi ambienti e dispositivi.",
+            "Seguire le linee guida WCAG durante lo sviluppo di un sito web o di contenuti digitali assicura che tali risorse siano accessibili e fruibili da tutte le persone, indipendentemente dalle loro capacità o dalle tecnologie di supporto utilizzate. Ciò contribuisce a creare un web più inclusivo, in quanto promuove l'uguaglianza di accesso alle informazioni online."
+        ]
+    },
+    {
+        "id": "page1-ux-usability",
+        "title": "User eXperience & Usability",
+        "img": "./img/ux.jpeg",
+        "content": [
+            "Usabilità e User Experience (anche chiamata UX o esperienza d'uso) sono due concetti diversi ma strettamente collegati fra loro e soprattutto molto importanti nell'ambito dell'accessibilità.",
+            "Usabilità e UX nascono in momenti diversi: l'usabilità fa la sua comparsa con l'avvento dei computer, anche se viene riconosciuta come importante solo a partire dagli anni '80, mentre si comincia a parlare di esperienza d'uso solo verso il 2000.",
+            "Con usabilità si intende l'efficienza e l'efficacia di un sistema, in altre parole, la sua dimensione pragmatica e oggettiva. L'esperienza d'uso invece, è un concetto soggettivo, in quanto si riferisce alla reazione dell'utente all'uso del sistema.",
+            "In particolare, l'usabilità cerca di assottigliare il più possibile il divario tra il modello mentale di chi progetta il sistema (design model) e il modello mentale di chi andrà ad usarlo (user model), al fine di rendere quel sistema il più semplice ed efficace possibile. Oltre ad efficace ed efficiente, un sistema con una buona usabilità deve essere soddisfacente nell'utilizzo, avere una curva di apprendimento e di memorizzazione (interazione con il sistema a distanza di tempo) dolce e infine possedere una buona resistenza agli errori.",
+            "Lo scopo dell'esperienza d'uso invece è rendere il più possibile piacevole ed emozionante l'utilizzo del sistema. Riuscirci richiede di prendere in considerazione aspetti all'apparenza completamente scollegati dall'ambito informatico: lo stato mentale dell'utente al momento dell'utilizzo del servizio, il servizio a cui l'utente accede utilizzando il sistema e la situazione intorno all'utente al momento dell'utilizzo. Tutti questi aspetti sono altamente soggettivi e perciò difficilmente predicibili, motivo per cui si ricerca il feedback dell'utente finale già dalla fase di sviluppo.",
+            "E' interessante notare come l'usabilità sia essa stessa una parte dell'esperienza d'uso. Infatti, quest'ultima si compone di tre dimensioni principali: quella pragmatica (l'usabilità), quella estetica/edonistica e quella simbolica. Della prima si è già parlato, la seconda fa riferimento alla bellezza del servizio e al piacere che ne consegue, mentre la terza è carica di significati sociali (riconoscimento di brand, identificazione).",
+            "Quando si parla di accessibilità, sia UX che Usability diventano fattori critici, in quanto possono influenzare il raggiungimento dei criteri delle WCAG. Progettare tenendo a mente UX e Usability, oltre ai principi delle WCAG, favorisce notevolmente l'accessibilità, garantendo che il prodotto o l'interfaccia siano comprensibili e facili da usare a una vasta gamma di utenti."
+        ]
+    }
+]

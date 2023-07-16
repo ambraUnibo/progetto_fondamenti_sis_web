@@ -1,0 +1,16 @@
+- check HTML
+- MOCK-UP (mobile, tablet, desktop)
+- ALTERNATIVE TEXT
+- check etichette descrittive
+- check layout flessibile
+
+MORE:
+- sass
+- pop-up spiegazione su tasto
+- loading animation
+- checkpoint per ogni articolo all'interno delle pagine (mini menu)
+- messaggi di errore presenti e chiari
+- useful links
+    - https://www.accessguide.io/
+
+

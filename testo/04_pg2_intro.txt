@@ -1,0 +1,4 @@
+Intro pagina 2
+
+All'interno di una pagina web ci possono essere vari aspetti con un impatto significativo sull'accessibilità, in particolare per le persone con disabilità visive o con difficoltà di distinzione dei colori. 
+In questo articolo andiamo ad approfondire quello di tre aspetti, tutti legati al design: il layout degli elementi nella pagina, la scelta e l'accostamento dei colori e infine la selezione dei font utilizzati.

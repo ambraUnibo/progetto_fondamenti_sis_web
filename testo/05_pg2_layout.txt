@@ -1,0 +1,9 @@
+Layout
+
+- Struttura chiara: Un layout ben strutturato e organizzato facilita la comprensione e la navigazione del contenuto. Utilizzare elementi come intestazioni (heading) per indicare la gerarchia delle informazioni, utilizzare liste ordinate e non ordinate per presentare elenchi e assicurarsi che gli elementi correlati siano raggruppati in modo logico.
+
+- Ordine di lettura: È importante assicurarsi che il contenuto della pagina sia presentato in un ordine di lettura coerente e logico. Ciò è particolarmente importante per gli utenti che utilizzano lettori di schermo o dispositivi di assistenza alla lettura. Verificare che il contenuto venga letto nell'ordine desiderato, anche se il layout visuale può essere diverso.
+
+- Responsività: Assicurarsi che il layout sia responsive e si adatti a diverse dimensioni di schermo e dispositivi. Un layout responsivo garantisce che il contenuto rimanga accessibile e leggibile anche su dispositivi mobili, contribuendo a un'esperienza utente positiva per tutti.
+
+- Testo alternativo per le immagini: Non utilizzare il testo contenuto esclusivamente in un'immagine per presentare informazioni o per trasmettere un significato, a meno che non siano presenti eccezioni, come loghi o marchi registrati. Quando si utilizzano immagini con testo incorporato, fornire un testo alternativo descrittivo per consentire alle persone non vedenti o con problemi di visualizzazione di comprendere il contenuto dell'immagine. 
